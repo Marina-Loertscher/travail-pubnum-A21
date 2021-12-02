@@ -6,7 +6,7 @@ html, body{
 }
 
 .plx-image1{
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lachainemeteo.ch%2Fvideos-meteo%2Factualites-france%2Fa-quoi-s-attendre-cet-hiver-330083&psig=AOvVaw0sLW90eioC6R-9n0TBcJe2&ust=1638552912023000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjpuLXTxfQCFQAAAAAdAAAAABAD);
+    background-image: url(images/);
     text-align: center;
     width: 100%;
     height: 900px;
@@ -25,5 +25,60 @@ html, body{
     text-shadow: -3px -3px 12px #313a49;
     -webkit-transform: skew(-5deg,-5deg);
     font-weight: normal;
-    
+}
+
+.text2{
+    font-size: 40px;
+    color: black;
+    margin: 0 0 20px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content-1{
+    height: auto;
+    width: 100%;
+    background-color: #f2f2f2; 
+    text-align: center;
+}
+
+.text3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80px;
+    background-color: #f2f2f2;
+    padding-top: 50px;
+}
+
+.text4{
+    width: 70%;
+    margin-left: 15%;
+    padding: 30px 0 80px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    background-color: #f2f2f2;
+    letter-spacing: 0.1em;
+    line-height: 1.8;
+}
+
+.plx-image2{
+    background-image: url(images/);
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.content-2{
+    height: auto;
+    width: 100%;
+    background-color: #f2f2f2; 
+}
+
+.text5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+    padding: 80px 0 80px 0;
+    letter-spacing: 0.2em;
 }
