@@ -10,4 +10,20 @@ html, body{
     text-align: center;
     width: 100%;
     height: 900px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text1{
+    font-size: 280px;
+    padding-top: 200px;
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+    -webkit-text-fill-color: blue;
+    text-shadow: -3px -3px 12px #313a49;
+    -webkit-transform: skew(-5deg,-5deg);
+    font-weight: normal;
+    
 }
