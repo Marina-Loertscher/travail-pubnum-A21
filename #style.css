@@ -23,7 +23,6 @@ html, body{
     color: black;
     -webkit-text-fill-color: blue;
     text-shadow: -3px -3px 12px #313a49;
-    -webkit-transform: skew(-5deg,-5deg);
     font-weight: normal;
 }
 
