@@ -6,7 +6,7 @@ html, body{
 }
 
 .plx-image1{
-    background-image: url(images/);
+    background-image: url(IMG_01.jpeg);
     text-align: center;
     width: 100%;
     height: 900px;
@@ -21,7 +21,7 @@ html, body{
     padding-top: 200px;
     font-family: 'Permanent Marker', cursive;
     color: black;
-    -webkit-text-fill-color: blue;
+    -webkit-text-fill-color: rgb(255, 255, 255);
     text-shadow: -3px -3px 12px #313a49;
     font-weight: normal;
 }
@@ -36,14 +36,14 @@ html, body{
 .content-1{
     height: auto;
     width: 100%;
-    background-color: #f2f2f2; 
+    background-color: #ffffff; 
     text-align: center;
 }
 
 .text3{
     font-family: 'Montserrat', sans-serif;
     font-size: 80px;
-    background-color: #f2f2f2;
+    background-color: #ffffff;
     padding-top: 50px;
 }
 
@@ -53,13 +53,13 @@ html, body{
     padding: 30px 0 80px 0;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-    background-color: #f2f2f2;
+    background-color: #ffffff;
     letter-spacing: 0.1em;
     line-height: 1.8;
 }
 
 .plx-image2{
-    background-image: url(images/);
+    background-image: url(IMG_02.jpeg);
     text-align: center;
     width: 100%;
     height: 800px;
@@ -72,7 +72,7 @@ html, body{
 .content-2{
     height: auto;
     width: 100%;
-    background-color: #f2f2f2; 
+    background-color: #ffffff; 
 }
 
 .text5{
