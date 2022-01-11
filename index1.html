@@ -6,29 +6,9 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
     
-      <!-- <script>
-      function spawnTrees(){
-        for(var i = 1; i<= 40; i++){
-          var x = Math.floor(Math.random()*15) ;
-          x *= Math.round(Math.random())? 1:-1;
-          var z = Math.floor(Math.random()*15) ;
-          z *= Math.round(Math.random())? 1:-1;
-          console.log(x)
-          console.log(z)
-
-          var BOB = document.getElementById("a-scene");
-          BOB.jljhcgkxgfgh(`<a-entity  position=" ${x} 0 ${z}" data-aframe-default-light="" aframe-injected="" geometry="primitive: cylinder; radius: 0.11" material="color : #8f6120"></a-entity>`);
-        
-          
-          // document.body.append(` <a-entity geometry="primitive: sphere; radius: 0.5" position="${x} 0.7 ${z}" material="color : #2f7b1f"></a-entity>`);
-        
-        }
-      }
-      
-</script> -->
       <title>Haikus</title>
   </head>
-  <body onload="spawnTrees()">
+  <body>
       <a-scene id="a-scene">
         
         <a-sky color="#5fc5e5"></a-sky>
